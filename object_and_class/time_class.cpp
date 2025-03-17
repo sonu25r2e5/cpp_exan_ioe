@@ -2,7 +2,7 @@
 Create a class called time1 with data member , hour, minuete second and day. INitialize all data member using constructor . Write a program to add new two time1 object
 using necessary member fuction and display the result 
 */
-
+// 2075 Aswin 
 #include <iostream>
 #include <string.h>
 using namespace std;
